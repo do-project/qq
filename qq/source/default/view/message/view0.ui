@@ -1,0 +1,19 @@
+{
+	"RootView":{
+		"width":"480",
+		"x":"0",
+		"y":"0",
+		"type":"do_ALayout",
+		"views":[
+			{
+				"isHeaderVisible":"true",
+				"templates":"source://view/message/index2cell0.ui",
+				"width":"480",
+				"id":"do_ListView_1",
+				"type":"do_ListView",
+				"height":"624"
+			}
+		],
+		"height":"854"
+	}
+}
